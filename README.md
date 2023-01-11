@@ -48,7 +48,7 @@ kiwisolver==1.4.4
 
 1. pycharm找不到cv2中比如imshow,imread,VideooCapture等方法找不到标黄下划线
 
-![Snipaste_2023-01-11_17-13-24](https://i2.100024.xyz/2023/01/11/scnhfw.webp)
+[Snipaste_2023-01-11_17-13-24](https://i2.100024.xyz/2023/01/11/scnhfw.webp)
 ![Snipaste_2023-01-11_17-13-45](https://i2.100024.xyz/2023/01/11/scnh17.webp)
 ![Snipaste_2023-01-11_17-13-58](https://i2.100024.xyz/2023/01/11/scnnf3.webp)
 
