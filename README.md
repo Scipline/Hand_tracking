@@ -42,7 +42,7 @@ kiwisolver==1.4.4
 
 ### 离线包
 
-在release中的**Library.zip**，已打包好本项目所需要的运行环境，解压到本项目同一目录下即可。
+在[release](https://github.com/Scipline/Hand_tracking/releases/tag/0.0.1)中的**Library.zip**，已打包好本项目所需要的运行环境，解压到本项目同一目录下即可。
 
 ## R＆M
 
